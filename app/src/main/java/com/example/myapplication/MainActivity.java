@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void goWebView(View view) {
-        Log.d("goWebView","LOG TEST........");
+        Log.d("goWebView","LOG TEST......");
 
 
         Intent intent = new Intent(this,WebViewActivity.class);
