@@ -24,6 +24,6 @@ public class ExampleInstrumentedTest {
 
         assertEquals("com.example.myapplication", appContext.getPackageName());
 
-        // test
+        // test 한글 테스트
     }
 }
